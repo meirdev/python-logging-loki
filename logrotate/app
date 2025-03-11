@@ -1,0 +1,4 @@
+/path/to/log/file {
+    size 10M
+    copytruncate
+}
